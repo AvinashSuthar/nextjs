@@ -5,7 +5,7 @@ export default function Signup() {
     <div>
       <Singin />
 
-      This is my sigin pagae
+      This is my sigin pagae helo
     </div>
   );
 }
